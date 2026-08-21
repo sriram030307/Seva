@@ -1,0 +1,9 @@
+{
+  "name": "SEVA – AI-Powered Civic Grievance Platform",
+  "description": "AI-Powered Citizen Grievance, Verification & Civic Intelligence Platform with Voice Reporting, Geo-Tagged Evidence, AI Verification, and Government Command Center",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
